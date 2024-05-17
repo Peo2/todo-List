@@ -15,7 +15,7 @@ function addList(){
 button.innerHTML = "X"
 li.appendChild(button)
 button.classList.add('delete')
-input.value ==='';
+input.value ='';
 }
 
  saveData();  
